@@ -1400,7 +1400,7 @@ var Component = __webpack_require__(9)(
   /* cssModules */
   null
 )
-Component.options.__file = "/Users/tomnu/Projects/vue-jekyll/components/app.vue"
+Component.options.__file = "/Users/tomnu/Projects/vue-jekyll-test/components/app.vue"
 if (Component.esModule && Object.keys(Component.esModule).some(function (key) {return key !== "default" && key !== "__esModule"})) {console.error("named exports are not supported in *.vue files.")}
 if (Component.options.functional) {console.error("[vue-loader] app.vue: functional components are not supported with templates, they should use render functions.")}
 
@@ -1411,9 +1411,9 @@ if (false) {(function () {
   if (!hotAPI.compatible) return
   module.hot.accept()
   if (!module.hot.data) {
-    hotAPI.createRecord("data-v-625b2129", Component.options)
+    hotAPI.createRecord("data-v-224c97d6", Component.options)
   } else {
-    hotAPI.reload("data-v-625b2129", Component.options)
+    hotAPI.reload("data-v-224c97d6", Component.options)
   }
 })()}
 
@@ -11593,7 +11593,7 @@ module.exports.render._withStripped = true
 if (false) {
   module.hot.accept()
   if (module.hot.data) {
-     require("vue-hot-reload-api").rerender("data-v-625b2129", module.exports)
+     require("vue-hot-reload-api").rerender("data-v-224c97d6", module.exports)
   }
 }
 
