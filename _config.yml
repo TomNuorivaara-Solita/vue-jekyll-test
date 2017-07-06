@@ -17,7 +17,7 @@ collections:
 markdown: kramdown
 gems:
 excerpt_seperator: "<!--more-->"
-destination: "./build"
+destination: "./docs"
 permalink: "/:titsle"
 exclude:
   - components
